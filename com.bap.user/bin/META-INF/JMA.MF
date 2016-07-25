@@ -1,0 +1,4 @@
+Archive-Specification: 0.9
+Archive-Name: bcptest
+Archive-Version: 1.0.0
+Dependency: org.objectweb.asm;version="1.0.0"
