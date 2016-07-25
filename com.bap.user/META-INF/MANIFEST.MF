@@ -1,0 +1,5 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: bcptest
+Bundle-SymbolicName: bcptest
+Bundle-Version: 1.0.0
+Require-Bundle: org.apache.poi;bundle-version="1.0.0"
